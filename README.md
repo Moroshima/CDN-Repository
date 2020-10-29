@@ -1,1 +1,1 @@
-# CDN-Repository
+# CDN Repository
